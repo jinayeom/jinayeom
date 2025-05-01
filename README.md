@@ -1,4 +1,4 @@
-## Hi there, I'm Jina 👋
+# Hi there, I'm Jina 👋
 
 I'm a Computer Science student at the University of British Columbia, currently pursuing my second bachelor's degree.
 I originally graduated with a degree in Medical Laboratory Sciences, where I developed a strong foundation in using critical deductive reasoning to diagnose human diseases. Afterward, I served as a **Combat Medic in the Canadian military** and later as a **Police Dispatcher for the Vancouver Police Department.**
@@ -9,7 +9,7 @@ Although early in my journey, I have been proactive in building the technical sk
 
 Here are some of the projects I've been working on: 
 
-### Projects I'm Working On 🌱💻
+## Projects I'm Working On 🌱💻
 - [InvestoMommy - Investment Analyzer Tool](https://github.com/popobunns/InvestmentAnalyzer)
 - [Triax - An AI Powered Dispatch Tool](https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
 
@@ -19,10 +19,10 @@ Here are some of the projects I've been working on:
 - Tools: Swing, Git, GitHub, VS Code, R Studio, Arduino IDE, Ollama
 - Design Tools: Figma, Canva
 
-### Open Source Contributions 📁
+## Open Source Contributions 📁
 - [Helping Hand - Mentorship Website for the Homeless](https://github.com/popobunns/HelpingHand.git) - **nwHacks 2025**
 
-### Skills I'm Currently Learning 👩🏻‍💻
+## Skills I'm Currently Learning 👩🏻‍💻
 - Full-Stack Web Development 
 - C++ Programming Language
 
