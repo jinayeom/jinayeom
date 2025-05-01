@@ -1,17 +1,21 @@
 ## Hi there, I'm Jina 👋
 
-I'm a Computer Science student pursuing my second bachelor's degree at the Unviersity of British Columbia! I initially graduated with a degree in Medical Laboratory Sciences where I learned about human pathology. I then joined the Canadian military as a Combat Medic and worked as a police dispatcher on the civilian side for the Vancouver Police Department. In these roles, I noticed several deficiencies in SOPs and technology. Often, these dire shortfalls critically impaired emergency response, endangering both public safety and officer effectiveness.
+I'm a Computer Science student at the University of British Columbia, currently pursuing my second bachelor's degree.
+I originally graduated with a degree in Medical Laboratory Sciences, where I developed a strong foundation in using critical deductive reasoning to diagnose human diseases. Afterward, I served as a **Combat Medic in the Canadian military** and later as a **Police Dispatcher for the Vancouver Police Department.**
+Through these frontline roles, I witnessed firsthand how inefficiencies in operational procedures and outdated technologies could critically hinder emergency response efforts, thus jeopardizing public safety and reducing response effectiveness. These experiences ignited my deep passion for identifying and streamlining inefficient processes, especially in high-stakes environments. 
 
-It's in this enviornment my passion for streamlining inefficient processes fostered. Eventually, my passion led me to return to school to pursue my second-degree in Computer Sciences.
-Although I just started last year, I've made strides to equip myself with the skills I need to start tackling some of these inefficiences that plague not only the emergency services sector, but also every day life. 
+Driven by this mission, I made the decision to return to school to study Computer Science.
+Although early in my journey, I have been proactive in building the technical skills needed to tackle systemic inefficiencies faced not only in emergency services, but also in everyday life. I am passionate about creating technology-driven solutions that enhance operational efficiency, public safety, and user experience.
 
 Here are some of the projects I've been working on: 
 
-### Projects I'm Working On 🌱
-- [InvestoMommy - Investment Analyzer Tool] (https://github.com/popobunns/InvestmentAnalyzer)
-- [Triax - An AI Powered Dispatch Tool] (https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
+### Projects I'm Working On 🌱💻
+- [InvestoMommy Investment Analyzer Tool] (https://github.com/popobunns/InvestmentAnalyzer)
+- [Triax An AI Powered Dispatch Tool] (https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
 
-### Skills I'm Currently Learning
+### Projects I Worked On 📁
+
+### Skills I'm Currently Learning 👩🏻‍💻
 - Full-Stack Web Development 
 - C++ Programming Language
 
