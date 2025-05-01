@@ -10,8 +10,8 @@ Although early in my journey, I have been proactive in building the technical sk
 Here are some of the projects I've been working on: 
 
 ### Projects I'm Working On 🌱💻
-- [InvestoMommy Investment Analyzer Tool] (https://github.com/popobunns/InvestmentAnalyzer)
-- [Triax An AI Powered Dispatch Tool] (https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
+- [InvestoMommy - Investment Analyzer Tool](https://github.com/popobunns/InvestmentAnalyzer)
+- [Triax - An AI Powered Dispatch Tool](https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
 
 ### Projects I Worked On 📁
 
