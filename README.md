@@ -24,7 +24,7 @@ Here are some of the projects I've been working on:
 
 ## Skills I'm Currently Learning 👩🏻‍💻
 - Full-Stack Web Development 
-- C++ Programming Language
+- C++ 
 
 ## How to Reach Me 📫
 - LinkedIn: [Jina's LinkedIn](www.linkedin.com/in/jinayeom)
