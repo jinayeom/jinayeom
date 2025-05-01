@@ -14,6 +14,7 @@ Here are some of the projects I've been working on:
 - [Triax - An AI Powered Dispatch Tool](https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
 
 ### Projects I Worked On 📁
+- [Helping Hand - Mentorship Website for the Homeless](https://github.com/popobunns/HelpingHand.git)
 
 ### Skills I'm Currently Learning 👩🏻‍💻
 - Full-Stack Web Development 
