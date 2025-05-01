@@ -13,11 +13,19 @@ Here are some of the projects I've been working on:
 - [InvestoMommy - Investment Analyzer Tool](https://github.com/popobunns/InvestmentAnalyzer)
 - [Triax - An AI Powered Dispatch Tool](https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
 
-### Projects I Worked On 📁
+## Skills & Tools 🛠️
+- Programming Languages: Java, Python, JavaScript, HTML/CSS
+- Libraries and Frameworks: MonogoDB, Mongoose, NextJS, ExpressJS, JUnit, React.js
+- Tools: Swing, Git, GitHub, VS Code, R Studio, Arduino IDE, Ollama
+- Design Tools: Figma, Canva
+
+### Open Source Contributions 📁
 - [Helping Hand - Mentorship Website for the Homeless](https://github.com/popobunns/HelpingHand.git) - **nwHacks 2025**
 
 ### Skills I'm Currently Learning 👩🏻‍💻
 - Full-Stack Web Development 
 - C++ Programming Language
 
+## How to Reach Me 📫
+- LinkedIn: [Jina's LinkedIn](www.linkedin.com/in/jinayeom)
 
