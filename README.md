@@ -18,8 +18,9 @@ Here are some of the projects I've been working on:
 - **Web Development**: TypeScript, JavaScript, Tailwind, HTML/CSS, React, Node.js, Express.js
 - **Databases and Frameworks**: MongoDB, SQL, JUnit
 - **AI Platforms**: OpenAI, Ollama
-- **Development Tools**: Swing, Git, GitHub, VS Code, R Studio, Arduino IDE, Notion
+- **Development Tools**: Swing, Git, GitHub, VS Code, R Studio, Notion
 - **Design Tools**: Figma, Canva
+- **Electronics**: Basic Electric Circuit Design, ArduinoIDE
 
 ## Open Source Contributions 📁
 - [Helping Hand - Mentorship Website for the Homeless](https://github.com/popobunns/HelpingHand.git) - **nwHacks 2025**
