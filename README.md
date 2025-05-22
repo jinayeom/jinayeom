@@ -14,9 +14,11 @@ Here are some of the projects I've been working on:
 - [Triax - An AI Powered Dispatch Tool](https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
 
 ## Skills & Tools 🛠️
-- **Programming Languages**: Java, Python, JavaScript, HTML/CSS
-- **Libraries and Frameworks**: MonogoDB, Mongoose, NextJS, ExpressJS, JUnit, React.js
-- **Tools**: Swing, Git, GitHub, VS Code, R Studio, Arduino IDE, Ollama
+- **Programming Languages**: Java, Python, C++
+- **Web Development**: TypeScript, JavaScript, Tailwind, HTML/CSS, React, Node.js, Express.js
+- **Databases and Frameworks**: MongoDB, SQL, JUnit
+- **AI Platforms**: OpenAI, Ollama
+- **Development Tools**: Swing, Git, GitHub, VS Code, R Studio, Arduino IDE, Notion
 - **Design Tools**: Figma, Canva
 
 ## Open Source Contributions 📁
