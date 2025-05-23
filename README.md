@@ -7,7 +7,7 @@ Through these frontline roles, I witnessed firsthand how inefficiencies in opera
 Driven by this mission, I made the decision to return to school to study Computer Science.
 Although early in my journey, I have been proactive in building the technical skills needed to tackle systemic inefficiencies faced not only in emergency services, but also in everyday life. I am passionate about creating technology-driven solutions that enhance operational efficiency, public safety, and user experience.
 
-## Here's me Website!
+## Here's My Website!
 [Visit my website](https://jinas-personal-website.vercel.app/)
 
 ## Projects I'm Working On 🌱💻
