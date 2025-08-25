@@ -12,6 +12,7 @@ Although early in my journey, I have been proactive in building the technical sk
 
 ## Projects I'm Working On 🌱💻
 - [InvestoMommy - Investment Analyzer Tool](https://github.com/popobunns/InvestmentAnalyzer)
+- [Instructional Website for New Web Developers](https://full-stack-notes-five.vercel.app/)
 - [Triax - An AI Powered Dispatch Tool](https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
 
 ## Skills & Tools 🛠️
