@@ -8,19 +8,16 @@ Driven by this mission, I made the decision to return to school to study Compute
 Although early in my journey, I have been proactive in building the technical skills needed to tackle systemic inefficiencies faced not only in emergency services, but also in everyday life. I am passionate about creating technology-driven solutions that enhance operational efficiency, public safety, and user experience.
 
 ## Here's My Website!
-[Visit my website](https://jinas-personal-website.vercel.app/)
+[Visit my website](https://www.jinayeom.com/)
 
 ## Projects I'm Working On 🌱💻
 - [InvestoMommy - Investment Analyzer Tool](https://github.com/popobunns/InvestmentAnalyzer)
 - [Triax - An AI Powered Dispatch Tool](https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
 
 ## Skills & Tools 🛠️
-- **Programming Languages**: Java, Python, C++
-- **Web Development**: TypeScript, JavaScript, Tailwind, HTML/CSS, React, Node.js, Express.js
-- **Databases and Frameworks**: MongoDB, SQL, JUnit
-- **AI Platforms**: OpenAI, Ollama
-- **Development Tools**: Swing, Git, GitHub, VS Code, R Studio, Notion
-- **Design Tools**: Figma, Canva
+- **Programming Languages**: HTML/CSS, C++, Python, TypeScript, JavaScript, Java, Acquiring SQL
+- **Libraries and Frameworks**: Django, React, Tailwind, Express.js, Next.js, Node.js, Swing, Mongoose, JUnit
+- **Other**: Google Cloud Platform (GCP), RESTful APIs, Swing, Git, R Studio, Ollama, OpenAI, Figma
 - **Electronics**: Basic Electric Circuit Design, ArduinoIDE
 
 ## Open Source Contributions 📁
@@ -28,7 +25,7 @@ Although early in my journey, I have been proactive in building the technical sk
 
 ## Skills I'm Currently Learning 👩🏻‍💻
 - Full-Stack Web Development 
-- C++ 
+- SQL
 
 ## How to Reach Me 📫
 - LinkedIn: [Jina's LinkedIn](www.linkedin.com/in/jinayeom)
