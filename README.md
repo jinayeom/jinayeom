@@ -12,22 +12,19 @@ Although early in my journey, I have been proactive in building the technical sk
 
 ## Projects I'm Working On 🌱💻
 - [InvestoMommy - Investment Analyzer Tool](https://github.com/popobunns/InvestmentAnalyzer)
-- [SkinCompass - AI](https://github.com/jinayeom/skincompass-ai)
 - [Instructional Website for New Web Developers](https://full-stack-notes-five.vercel.app/)
 - [Triax - An AI Powered Dispatch Tool](https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
 
 ## Skills & Tools 🛠️
 - **Programming Languages**: HTML/CSS, C++, Python, TypeScript, JavaScript, Java, Acquiring SQL, Bash
-- **Libraries and Frameworks**: Django, React, Tailwind, Express.js, Next.js, Node.js, Swing, Mongoose, JUnit
+- **Libraries and Frameworks**: Django, React, Tailwind, Express.js, Next.js, Node.js, Swing, Mongoose, JUnit, Playwright
 - **Other**: Google Cloud Platform (GCP), RESTful APIs, Swing, Git, R Studio, Ollama, OpenAI, Figma
 - **Electronics**: Basic Electric Circuit Design, ArduinoIDE
-
-## Open Source Contributions 📁
-- [Helping Hand - Mentorship Website for the Homeless](https://github.com/popobunns/HelpingHand.git) - **nwHacks 2025**
 
 ## Skills I'm Currently Learning 👩🏻‍💻
 - Full-Stack Web Development 
 - SQL
+- OAuth
 
 ## How to Reach Me 📫
 - LinkedIn: [Jina's LinkedIn](www.linkedin.com/in/jinayeom)
