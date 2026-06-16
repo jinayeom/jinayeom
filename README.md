@@ -1,6 +1,6 @@
 # Hi there, I'm Jina 👋
 
-I'm a Computer Science student at the University of British Columbia, currently pursuing my second bachelor's degree.
+I'm currently an intern at Shopify on the Deliver team. I'm also a Computer Science student at the University of British Columbia, currently pursuing my second bachelor's degree.
 I originally graduated with a degree in Medical Laboratory Sciences, where I developed a strong foundation in using critical deductive reasoning to diagnose human diseases. Afterward, I served as a **Combat Medic in the Canadian military** and later as a **Police Dispatcher for the Vancouver Police Department.**
 Through these frontline roles, I witnessed firsthand how inefficiencies in operational procedures and outdated technologies could critically hinder emergency response efforts, thus jeopardizing public safety and reducing response effectiveness. These experiences ignited my deep passion for identifying and streamlining inefficient processes, especially in high-stakes environments. 
 
