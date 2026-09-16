@@ -21,9 +21,9 @@ Although early in my journey, I have been proactive in building the technical sk
 - **Electronics**: Basic Electric Circuit Design, ArduinoIDE
 
 ## Skills I'm Currently Learning 👩🏻‍💻
-- Full-Stack Web Development 
+- Agentic AI Workflows
+- Hardware design and building cool things
 - SQL
-- OAuth
 
 ## How to Reach Me 📫
 - LinkedIn: [Jina's LinkedIn](www.linkedin.com/in/jinayeom)
