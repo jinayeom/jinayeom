@@ -15,8 +15,8 @@ Although early in my journey, I have been proactive in building the technical sk
 - [Triax - An AI Powered Dispatch Tool](https://github.com/jho1211/bcshacks2025) - **🏆BCS HACKS 2025 WINNER🏆**
 
 ## Skills & Tools 🛠️
-- **Programming Languages**: HTML/CSS, C++, Python, TypeScript, JavaScript, Java, Acquiring SQL, Bash
-- **Libraries and Frameworks**: Django, React, Tailwind, Express.js, Next.js, Node.js, Swing, Mongoose, JUnit, Playwright
+- **Programming Languages**: Ruby, HTML/CSS, C++, Python, TypeScript, JavaScript, Java, Acquiring SQL, Bash
+- **Libraries and Frameworks**: Ruby on Rails, Django, React, Tailwind, Express.js, Next.js, Node.js, Swing, Mongoose, JUnit, Playwright
 - **Other**: Google Cloud Platform (GCP), RESTful APIs, Swing, Git, R Studio, Ollama, OpenAI, Figma
 - **Electronics**: Basic Electric Circuit Design, ArduinoIDE
 
