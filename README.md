@@ -1,7 +1,6 @@
 # Hi there, I'm Jina 👋
 
-I'm currently an intern at Shopify on the Deliver team. I'm also a Computer Science student at the University of British Columbia, currently pursuing my second bachelor's degree.
-I originally graduated with a degree in Medical Laboratory Sciences, where I developed a strong foundation in using critical deductive reasoning to diagnose human diseases. Afterward, I served as a **Combat Medic in the Canadian military** and later as a **Police Dispatcher for the Vancouver Police Department.**
+I am a Software Engineer at Shopify and an incoming Masters student at Georgia Tech's Masters in Science of Computer Science program. I attended the Bachelor of Computer Science second-degree program at the University of British Columbia. I originally graduated with a degree in Medical Laboratory Sciences, where I developed a strong foundation in using critical deductive reasoning to diagnose human diseases. Afterward, I served as a **Combat Medic in the Canadian military** and later as a **Police Dispatcher for the Vancouver Police Department.**
 Through these frontline roles, I witnessed firsthand how inefficiencies in operational procedures and outdated technologies could critically hinder emergency response efforts, thus jeopardizing public safety and reducing response effectiveness. These experiences ignited my deep passion for identifying and streamlining inefficient processes, especially in high-stakes environments. 
 
 Driven by this mission, I made the decision to return to school to study Computer Science.
